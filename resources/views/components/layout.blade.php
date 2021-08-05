@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
         <a class="text-muted" href="#">اشتراك</a>
       </div>
       <div class="col-4 text-center">
-        <a class="blog-header-logo" href="#">المدونة</a>
+        <a class="blog-header-logo" href="/posts">المدونة</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
         <a class="text-muted" href="#" aria-label="Search">
@@ -188,9 +188,8 @@ h1, h2, h3, h4, h5, h6 {
 {{ $slot }}
 
   <footer class="blog-footer">
-  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
   <p>
-    <a href="#">Back to top</a>
+    <a href="#">اذهب الى الأعلى</a>
   </p>
 </footer>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
